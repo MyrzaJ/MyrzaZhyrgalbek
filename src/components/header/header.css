@@ -1,0 +1,12 @@
+.Navbar{
+   margin: 0 50px;
+   position: fixed;
+   justify-content: space-between;
+   
+}
+
+@media all and (max-width:476px){
+   .header{
+    margin: 0;
+   } 
+}
